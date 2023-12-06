@@ -1,5 +1,7 @@
 # Clon de Google
 
+¡Bienvenido al clon de Google Web! Este proyecto recrea la experiencia visual de la conocida página de inicio de Google.
+
 Este es un clon de Google Web.
 
 ## Tegnologias utilizadas
